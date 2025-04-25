@@ -10,6 +10,10 @@ Soy un apasionado desarrollador de software con interés en aprender y crecer en
 - 💼 Mi objetivo es contribuir a proyectos **[menciona el área o tipo de proyectos, e.g., open-source, startups, etc.]**.
 - 📫 Puedes contactarme en: **[incluye tu correo electrónico, LinkedIn, u otra red]**.
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ---
 
 ## 🔧 Tecnologías y Herramientas
