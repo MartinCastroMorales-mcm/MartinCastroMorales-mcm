@@ -39,10 +39,10 @@
 
 ### Me gustaria aprender
 
-- ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-- ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-- ![Lisp](https://img.shields.io/badge/Lisp-000000?style=for-the-badge&logo=common-lisp&logoColor=white)
-- ![CI/CD](https://img.shields.io/badge/CI%2FCD-4B8BBE?style=for-the-badge&logo=github-actions&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+  ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+  ![Lisp](https://img.shields.io/badge/Lisp-000000?style=for-the-badge&logo=common-lisp&logoColor=white)
+  ![CI/CD](https://img.shields.io/badge/CI%2FCD-4B8BBE?style=for-the-badge&logo=github-actions&logoColor=white)
 
 
 ---
@@ -56,10 +56,7 @@
 ## 📈 Estadísticas
 
 ![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinCastroMorales-mcm&show_icons=true&theme=radical)
-
----
 [![Martin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MartinCastroMorales-mcm&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=MartinCastroMorales-mcm&theme=radical)](https://git.io/streak-stats)
 
 ## 🌟 Proyectos destacados
