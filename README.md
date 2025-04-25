@@ -16,7 +16,7 @@ Soy un apasionado desarrollador de software con interés en aprender y crecer en
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinCastroMorales-mcm&layout=compact&theme=radical&hide=jupyter%20notebook)
 
-- Herramientas: **git, linux**
+![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinCastroMorales-mcm&show_icons=true&theme=radical)
 
 ---
 
@@ -28,6 +28,8 @@ Soy un apasionado desarrollador de software con interés en aprender y crecer en
 [![Martin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MartinCastroMorales-mcm&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MartinCastroMorales-mcm&theme=radical)](https://git.io/streak-stats)
+
+![Metrics](https://metrics.lecoq.io/MartinCastroMorales-mcm?template=classic&base.header=0&base.activity=0&base.repositories=0&config.timezone=America%2FMexico_City)
 
 ## 🌟 Proyectos destacados
 
