@@ -14,8 +14,7 @@ Soy un apasionado desarrollador de software con interés en aprender y crecer en
 
 ## 🔧 Tecnologías y Herramientas
 
-- Lenguajes:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinCastroMorales-mcm&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinCastroMorales-mcm&layout=compact&theme=radical&hide=jupyter%20notebook)
 
 - Herramientas: **git, linux**
 
