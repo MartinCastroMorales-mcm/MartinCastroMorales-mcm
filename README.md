@@ -37,6 +37,13 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+### Me gustaria aprender
+
+- ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+- ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+- ![Lisp](https://img.shields.io/badge/Lisp-000000?style=for-the-badge&logo=common-lisp&logoColor=white)
+- ![CI/CD](https://img.shields.io/badge/CI%2FCD-4B8BBE?style=for-the-badge&logo=github-actions&logoColor=white)
+
 
 ---
 
