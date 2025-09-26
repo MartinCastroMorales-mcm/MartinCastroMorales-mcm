@@ -2,12 +2,6 @@
 
 ---
 
-## 🚀 Sobre mí
-
-
-- 💼 Mi objetivo es contribuir a proyectos **[menciona el área o tipo de proyectos, e.g., open-source, startups, etc.]**.
-- 📫 Puedes contactarme en: **[incluye tu correo electrónico, LinkedIn, u otra red]**.
-
 ## 🛠️ Alguna vez he tocado
 ### Lenguajes
 
@@ -36,13 +30,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-4B8BBE?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### Me gustaria aprender
-
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-  ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-  ![Lisp](https://img.shields.io/badge/Lisp-000000?style=for-the-badge&logo=common-lisp&logoColor=white)
-  ![CI/CD](https://img.shields.io/badge/CI%2FCD-4B8BBE?style=for-the-badge&logo=github-actions&logoColor=white)
+  
 
 
 ---
@@ -60,8 +50,5 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=MartinCastroMorales-mcm&theme=radical)](https://git.io/streak-stats)
 
 ## 🌟 Proyectos destacados
-
-- **[Nombre del Proyecto 1](#)**: Breve descripción del proyecto.
-- **[Nombre del Proyecto 2](#)**: Breve descripción del proyecto.
 
 ---
