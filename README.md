@@ -49,6 +49,4 @@
 [![Martin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MartinCastroMorales-mcm&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![GitHub Streak](https://streak-stats.demolab.com?user=MartinCastroMorales-mcm&theme=radical)](https://git.io/streak-stats)
 
-## 🌟 Proyectos destacados
-
 ---
